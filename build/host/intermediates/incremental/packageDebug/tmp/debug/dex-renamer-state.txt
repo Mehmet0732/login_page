@@ -1,0 +1,4 @@
+#Wed Aug 09 11:27:18 AST 2023
+base.0=C\:\\Users\\ASUS ZenBook\\Desktop\\dersler\\login_page_getx_examp\\build\\host\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

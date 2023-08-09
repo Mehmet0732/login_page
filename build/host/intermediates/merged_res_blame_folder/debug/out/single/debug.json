@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.login_page_getx_examp.host.app-merged_res-17:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.login_page_getx_examp.host.app-main-9:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.login_page_getx_examp.host.app-merged_res-17:/drawable_launch_background.xml.flat",
+        "source": "com.example.login_page_getx_examp.host.app-main-9:/drawable/launch_background.xml"
+    }
+]
